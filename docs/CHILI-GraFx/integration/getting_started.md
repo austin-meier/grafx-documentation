@@ -2,31 +2,28 @@
 
 ## Platform API
 
-The **GraFx Platform API** allows you to connect server-side through the REST api.
+The **GraFx Platform API** allows you to manage GraFx Platform resources.
 
-Use cases are
+Some exmaple use cases are:
 
 - User management
-- Designer seat management
 - Environment creation
 - Buy (Render pack) add-ons
 
-Once your object is instantiated, you use classes & functions, as listed in the [API reference](/CHILI_GraFx/platform_api/reference/).
 
 ## Environment API
 
-Through the **GraFx Environment API** you can talk to your CHILI GraFx environment.
+Through the **GraFx Environment API** you can manage your CHILI GraFx environments.
 
-Use cases are
+Some exmaple use cases are:
 
 - Adding Smart Templates
 - Adding Template Designer seats (later)
 - Generating Output
-- ...
 
-[See the Environment API](/CHILI_GraFx/environment_api/)
+You can learn more about these and find their reference guides at the [Developer Center](/GraFx-Developers/)
 
-# Authenticate
+# Authentication
 
 Before you can start, you'll need credentials.
 

@@ -18,7 +18,7 @@ For a designer to be able to make a template, you need to assign a Template Desi
 
 ## Renders
 
-Renders is a measure of usage of the platform. See [**renders**](/CHILI_GraFx/concepts/renders/) for more detail.
+Renders is a measure of usage of the platform. See [**renders**](/CHILI-GraFx/concepts/renders/) for more detail.
 
 This number shows the average renders, over the last 6 months. This is also the basis for the invoicing.
 

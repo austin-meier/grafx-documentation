@@ -1,25 +1,36 @@
 # Integrate CHILI GraFx apps
 
-Server side, you have access to 2 API's with endpoints.
+To communitcate with GraFx server side, please use these two APIs. You can learn more about the role of each API below.
 
-- [Platform API](/CHILI-GraFx/api/platform/)
-- [Environment API](/CHILI-GraFx/api/environment/)
+- [Platform API](https://api.chiligrafx.com/swagger/index.html)
+- [Environment API](https://sandbox1.chili-publish-sandbox.online/grafx/swagger/index.html)
 
 Client side
 
-- [GraFx Studio SDK](/GraFx-Studio/sdk/)
+- [GraFx Studio SDK](https://chili-publish.github.io/editor-sdk/index.html)
 
 ## Platform API
 
-A set of classes and endpoints that allows you to manage resources linked to your platform.
+The **GraFx Platform API** allows you to manage GraFx Platform resources.
+
+Some exmaple use cases are:
+
+- User management
+- Environment creation
+- Buy (Render pack) add-ons
+
 
 ## Environment API
 
-Classes and endpoints to interact with your environment, documents, templates, media, fonts, etc.
+Through the **GraFx Environment API** you can manage your CHILI GraFx environment.
 
-These endpoints are linked to resources bound to 1 environment.
+Some exmaple use cases are:
 
-The API contains functions related to several apps. 
+- Adding Smart Templates
+- Adding Template Designer seats (later)
+- Generating Output
+
+The Environment API contains endpoints related to several apps.
 
 | Ust this API	   	   	    | for this App |
 |-------------------|-------------|
@@ -28,12 +39,12 @@ The API contains functions related to several apps.
 | Environment API	| GraFx Media |
 | Environment API	| GraFx Fonts |
 
-### Permissions
+### Authorization
 
-Some functions will be restricted. Then the API will provide an error.
+Certain endpoints require authentication and authorization to access. If you have not properly authorized, the API will respond with an error.
 
 - If you don't have the app in your subscription
-- If you have the app, but you don't have access to a certail resource
+- If you have the app, but you don't have access to a certain resource
 
 Error codes
 
@@ -47,14 +58,14 @@ Error codes
 
 ## CHILI GraFx
 
-- [Getting Started](/CHILI_GraFx/integration/getting_started/)
-- [Platform API](/CHILI_GraFx/platform_api/)
+- [Getting Started](/CHILI-GraFx/integration/getting_started/)
+- [Platform API](/CHILI-GraFx/platform_api/)
 
 ## GraFx Studio
 
-- [SDK Getting Started](/GraFx_studio/integration/getting_started/)		
-- [SDK Reference](/GraFx_studio/sdk/)
-- [Environment API](/CHILI_GraFx/environment_api/)
+- [SDK Getting Started](/GraFx-Studio/integration/getting_started/)
+- [SDK Reference](https://chili-publish.github.io/editor-sdk/index.html)
+- [Environment API](https://sandbox1.chili-publish-sandbox.online/grafx/swagger/index.html)
 
 ## GraFx publisher
 
@@ -64,8 +75,8 @@ Error codes
 
 ## GraFx media
 
-- [Environment API](/CHILI_GraFx/environment_api/)
+- [Environment API](https://sandbox1.chili-publish-sandbox.online/grafx/swagger/index.html)
 
 ## GraFx fonts
 
-- [Environment API](/CHILI_GraFx/environment_api/)
+- [Environment API](https://sandbox1.chili-publish-sandbox.online/grafx/swagger/index.html)

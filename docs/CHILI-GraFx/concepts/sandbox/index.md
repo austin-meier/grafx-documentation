@@ -2,7 +2,7 @@
 
 ## Sandbox
 
-A sandbox deployment is like a test version of the CHILI GraFx platform or applications that allows you to experiment with new features without affecting the live production data. With each new release, the sandbox deployment will have the latest version of the platform and/or applications, but with separate data. 
+A sandbox deployment is like a test version of the CHILI GraFx platform or applications that allows you to experiment with new features without affecting the live production data. With each new release, the sandbox deployment will have the latest version of the platform and/or applications, but with separate data.
 
 This means that any changes made in the sandbox will not affect the production data. The sandbox allows you to test new features to make sure they work properly before they are used in the live version.
 

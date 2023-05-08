@@ -2,7 +2,7 @@
 
 This page describes the roles.
 
-Click here to see how to [change roles & Environment access](/CHILI_GraFx/user_management_updaterole/).
+Click here to see how to [change roles & Environment access](/CHILI-GraFx/users/update/).
 
 ## Available roles
 
@@ -10,7 +10,7 @@ Click here to see how to [change roles & Environment access](/CHILI_GraFx/user_m
 
 !!! Definition
 	A Subscription Admin manages the subscription(s) he is assigned too
-	
+
 Assigned permissions
 
 - View all subscription(s) assigned to
@@ -23,13 +23,13 @@ Assigned permissions
 - Invite users to all available environments in the subscription
 
 ??? Tip "Subscription Admin"
-	Important: a Subscription Admin can assign the role ‘Subscription Admin' to other users on 'User Detail page'.
+	Important: a Subscription Admin can assign the role 'Subscription Admin' to other users on 'User Detail page'.
 
 ### Environment Admin
 
 !!! Definition
 	An Environment Admin manages the CHILI GraFx environment(s) where he is assigned to by his Subscription Admin
-	
+
 Assigned permissions
 
 - Access to environments where you are Environment Admin
@@ -38,7 +38,7 @@ Assigned permissions
 	- Environment Settings (eg. branding)
 	- User management (CRUD actions) for the users of environments where you are Environment Admin
 - Invite users to the Environment
-	
+
 ### Environment User - a.k.a. "User"
 
 !!! Definition
@@ -51,11 +51,11 @@ Assigned permissions
 - Work in the environments where the user is assigned to
 
 !!! Warning "Template Designer"
-	- If an Environment user wants to create templates in the CHILI GraFx environment this user needs to have an additional role: [Template Designer](/CHILI_GraFx/user_management_roles/#template-designer)
+	- If an Environment user wants to create templates in the CHILI GraFx environment this user needs to have an additional role: [Template Designer](#template-designer)
 
 ### Template Designer
 
-See the [Template Designer Seat](/CHILI_GraFx/user_management_template_designer/) page
+See the [Template Designer Seat](/CHILI-GraFx/users/template-designer-seat/) page
 
 ### Content Administrator
 
@@ -70,11 +70,11 @@ This role will not be visible to Subscriptions without a prior CHILI publisher O
 
 ### First user
 
-The first user will be the subscription Admin, and is created by CHILI GraFx, as a result of a signed contract.
+The first user will be the subscription admin, and is created by CHILI GraFx, as a result of a signed contract.
 
 ### Subsequent Users
 
-All users (except the first (subscription Admin) user) can be invited to CHILI GraFx by
+All users (except the first (subscription admin) user) can be invited to CHILI GraFx by
 
 - A Subscription Admin
 - An Environment Admin

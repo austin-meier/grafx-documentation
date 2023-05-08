@@ -37,26 +37,26 @@ The first 50 renders are counted individually, then each set of 50 is counted as
 !!! Formula
 
 	V = Variable Data source size (e.g. 1000 records)
-	
-	Amount of Renders = 50 + (V-50)/50	
-		
+
+	Amount of Renders = 50 + (V-50)/50
+
 	e.g. 50 + (1000-50)/50 = 50 + 19 = 69
-	
+
 	The first 50 renders count as 50, then every 50 renders are counted as 1.
-	
+
 ## Fair use policy
 
 In your subscription, you're entitle to a render quota.
 
 Your dashboard will show the actual status of renders. (with a delay of ±1 day).
 
-![Renders](https://chilipublishdocs.imgix.net/CHILI_GraFx/renders.png)
+![Renders](renders.png)
 
 The light blue line shows the "6 month rolling average".
 
 Render quota are not a hard limit per month. If you generate more output than the render quota, we won’t block or watermark the output.
 
-You are allowed to go over the monthly limit. 
+You are allowed to go over the monthly limit.
 
 When the 6 month rolling average exceeds the render quota, it's time to add extra render packs to increase your render quota to at least the 6 month average.
 
