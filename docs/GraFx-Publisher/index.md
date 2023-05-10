@@ -14,7 +14,7 @@ The documentation (of CHILI publisher) is maintained at [this location](https://
 
 My CHILI publisher — MyCP in short — **was** the web portal you can use to manage your subscriptions and environments.
 
-This functionality has been transfered to [CHILI GraFx](/CHILI_GraFx/).
+This functionality has been transfered to [CHILI GraFx](/CHILI-GraFx/).
 
 See also [CHILI publisher documentation](https://chilipublishdocs.atlassian.net/wiki/spaces/CPDOC/pages/1373405185/My+CHILI+publisher+a.k.a.+MyCP){target="_blank"}
 

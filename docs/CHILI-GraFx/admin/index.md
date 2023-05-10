@@ -24,12 +24,12 @@ Password have a lifecycle of 1 year, after that you'll be invited to create a ne
 
 ## Subscriptions
 
-[See: Subscriptions](/CHILI-GraFx/subscriptions/)
+[See: Subscriptions](/CHILI-GraFx/concepts/subscriptions/)
 
 ## Environments
 
-[See: Environments](/CHILI-GraFx/environments/)
+[See: Environments](/CHILI-GraFx/concepts/environments/)
 
 ## User Management
 
-[See User management](/CHILI-GraFx/user-management/)
+[See User management](/CHILI-GraFx/users/intro/)

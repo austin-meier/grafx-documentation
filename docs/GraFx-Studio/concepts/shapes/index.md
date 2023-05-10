@@ -8,9 +8,9 @@ Select (O) for oval
 
 Select (Y) for polygon (don't ask Y)
 
-![Properties](https://chilipublishdocs.imgix.net/GraFx_studio/ui_top_shapes.png)
+![Properties](shapes-ui.png)
 
-![Properties](https://chilipublishdocs.imgix.net/GraFx_studio/shapes_intro.png)
+![Properties](shapes-intro.png)
 
 ## Shape properties
 
@@ -21,4 +21,4 @@ Select (Y) for polygon (don't ask Y)
 - Constrain proportions
 - Rotation (inherited property)
 
-![Properties](https://chilipublishdocs.imgix.net/GraFx_studio/properties_shapes.png)
+![Properties](shape-properties.png)

@@ -1,4 +1,4 @@
-# Onboarding: GraFx Publisher - Hello world
+# GraFx Publisher - Hello world
 
 [CHILI GraFx](https://chiligrafx.com){target="_blank"}
 

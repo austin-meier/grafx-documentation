@@ -6,7 +6,7 @@ Navigating happens with a mouse or trackpad.
 
 *Using a trackpad*:
 
-![appscreen](https://chilipublishdocs.imgix.net/GraFx_studio/ui_top_hand.png?h=200)
+![appscreen](drag-hand.png)
 
 *With the hand-tool selected*: You can drag the canvas to work on other areas of your document.
 

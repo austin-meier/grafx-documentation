@@ -21,6 +21,7 @@ plugins:
   - redirects:
       redirect_maps:
         'CHILI-GraFx/releasenotes.md': 'release-notes/index.md'
+        'CHILI-GraFx/users/index.md': 'CHILI-GraFx/users/intro/index.md'
         'GraFx-Studio/releasenotes.md': 'release-notes/index.md'
   - search
   - awesome-pages
@@ -102,8 +103,8 @@ nav:
         - 'Concepts':
             - 'Renders':                        'CHILI-GraFx/concepts/renders/index.md'
             - 'Sandbox':                        'CHILI-GraFx/concepts/sandbox/index.md'
-        - 'Platform Admin':
-            - 'General Admin' :                 'CHILI-GraFx/admin/index.md'
+        - 'Platform Administration':
+            - 'General Administration' :        'CHILI-GraFx/admin/index.md'
             - 'User management' :
                 - 'Intro' :                     'CHILI-GraFx/users/intro/index.md'
                 - 'Scope' :                     'CHILI-GraFx/users/scope/index.md'
@@ -125,23 +126,15 @@ nav:
         - 'Step by step onboarding':
             - 'Intro' :                         'CHILI-GraFx/guides/onboarding/intro/index.md'
             - 'User Account Migration' :        'CHILI-GraFx/guides/onboarding/migration/index.md'
-            - 'Logging in' :                     'CHILI-GraFx/guides/onboarding/logging-in/index.md'
+            - 'Logging in' :                    'CHILI-GraFx/guides/onboarding/logging-in/index.md'
             - 'Find your way around' :          'CHILI-GraFx/guides/onboarding/navigation/index.md'
             - 'Applications' :                  'CHILI-GraFx/guides/onboarding/applications/index.md'
-            #TODO(austin): Discuss if these items should be moved to GraFx-Stduio and GraFx-Publisher
             - 'GraFx Publisher' :
-                - 'GraFx Publisher - first template': 'CHILI-GraFx/step_by_step/gfx_publisher_template1.md'
-            - 'GraFx Studio' :
-                - 'Hello world':                'CHILI-GraFx/step_by_step/gfx_studio_template1.md'
-                - 'Hello world extended':       'CHILI-GraFx/step_by_step/gfx_studio_template2.md'
-#                - 'Adding a text frame':        'CHILI-GraFx/step_by_step/gfx_studio_textframe.md'
-#                - 'Adding an image frame':      'CHILI-GraFx/step_by_step/gfx_studio_imageframe.md'
-#                - 'Styles':                     'CHILI-GraFx/step_by_step/gfx_studio_styles.md'
-#                - 'Layouts':                    'CHILI-GraFx/step_by_step/gfx_studio_layouts.md'
-#                - 'Timeline':                   'CHILI-GraFx/step_by_step/gfx_studio_timeline.md'
+                - 'GraFx Publisher intro':      'CHILI-GraFx/guides/onboarding/publisher/index.md'
+            - 'GraFx Studio':
+                - 'GraFx Studio intro':         'CHILI-GraFx/guides/onboarding/studio/index.md'
             - 'GraFx Media' :
-                - 'GraFx Media intro':              'CHILI-GraFx/step_by_step/gfx_media.md'
-        - 'Release notes':                      'release-notes/index.md'
+                - 'GraFx Media intro':          'CHILI-GraFx/guides/onboarding/media/index.md'
 
     - 'GraFx Studio':
         - 'Introduction':                       'GraFx-Studio/index.md'
@@ -151,13 +144,13 @@ nav:
             - 'Header Bar':                     'GraFx-Studio/overview/headerbar/index.md'
             - 'Sidebar Tools':                  'GraFx-Studio/overview/sidebar/index.md'
             - 'Document Canvas':                'GraFx-Studio/overview/document-canvas/index.md'
-            - 'Page or Document':               'GraFx-Studio/overview/page-document/index.md'
+            - 'Page or Document':               'GraFx-Studio/overview/document/index.md'
             - 'Properties panel':               'GraFx-Studio/overview/properties/index.md'
             - 'Export':                         'GraFx-Studio/overview/export/index.md'
             - 'Bottom Quick Tools':             'GraFx-Studio/overview/bottom-quicktools/index.md'
             - 'Animation':                      'GraFx-Studio/overview/animation/index.md'
             - 'Layouts':                        'GraFx-Studio/overview/layouts/index.md'
-            - 'Frames & Timeline':              'GraFx-Studio/overview/frames-timeline/index.md'
+            - 'Frames & Timeline':              'GraFx-Studio/overview/timeline/index.md'
             - 'Stylekit':                       'GraFx-Studio/overview/stylekits/index.md'
         - 'Concepts':
 #            - 'Template vs Publication':        'GraFx-Studio/concept/template_publication.md'
@@ -171,6 +164,11 @@ nav:
             - 'Stylekits':                      'GraFx-Studio/concepts/stylekits/index.md'
             - 'Keyboard Shortcuts':             'GraFx-Studio/concepts/shortcuts/index.md'
         - 'How to: Design documents':
+            - 'Hello world':                    'GraFx-Studio/guides/hello-world/index.md'
+#            - 'Adding a text frame':        'GraFx-Studio/guides/frames/text/index.md'
+#            - 'Adding an image frame':      'GraFx-Studio/guides/frames/image/index.md'
+#            - 'Styles':                     'GraFx-Studio/guides/styles/index.md'
+#            - 'Timeline':                   'GraFx-Studio/guides/timeline/index.md.md'
             - 'Create Layouts':                 'GraFx-Studio/guides/layouts/index.md'
             - 'Paragraph Styles':               'GraFx-Studio/guides/paragraphstyles/index.md'
             - 'Character Styles':               'GraFx-Studio/guides/characterstyles/index.md'
@@ -179,7 +177,7 @@ nav:
             - 'Animate my frame':               'GraFx-Studio/guides/animate-frame/index.md'
             - 'Define variables':               'GraFx-Studio/guides/variables/define/index.md'
             - 'Organize variables':             'GraFx-Studio/guides/variables/organize/index.md'
-            - 'Add variables to document':      'GraFx-Studio/guides/variables/index.md'
+            - 'Add variables to document':      'GraFx-Studio/guides/variables/assign/index.md'
 #        - 'How to: Extend GraFx studio':
 #            - 'GraFx studio INDD plugin' :      'GraFx-Studio/plugin/studio_indesign.md'
 #            - 'GraFx studio AI plugin' :        'GraFx-Studio/plugin/studio_ai.md'
@@ -189,35 +187,32 @@ nav:
             - 'GIF':                            'GraFx-Studio/guides/output/gif/index.md'
             - 'JPG and PNG':                    'GraFx-Studio/guides/output/image/index.md'
         - 'Integrate GraFx studio':
-            - 'Getting started':                'GraFx-Studio/integration/getting_started.md'
-            - 'Local environment':              'GraFx-Studio/integration/local_environment.md'
-            - 'NPM & Webpack':                  'GraFx-Studio/integration/npm_webpack.md'
-            - 'CHILI Editor SDK':               'GraFx-Studio/integration/chili_editor_sdk.md'
-            - 'First build':                    'GraFx-Studio/integration/first_build.md'
-            - 'Custom app':                     'GraFx-Studio/integration/custom_app.md'
-        - 'Release notes':                      'release-notes/index.md'
+            - 'Getting started':                'GraFx-Studio/integration/getting-started/index.md'
+            - 'Local environment':              'GraFx-Studio/integration/environment/index.md'
+            - 'NPM & Webpack':                  'GraFx-Studio/integration/npm/index.md'
+            - 'CHILI Editor SDK':               'GraFx-Studio/integration/studio-sdk/index.md'
+            - 'First build':                    'GraFx-Studio/integration/first-build/index.md'
+            - 'Custom app':                     'GraFx-Studio/integration/custom-app/index.md'
     - 'GraFx Publisher':
         - 'Introduction':                       'GraFx-Publisher/index.md'
+        - 'Guides':
+          - 'Hello world':                      'GraFx-Publisher/guides/hello-world/index.md'
 
     - 'GraFx Media':
         - 'Introduction':                       'GraFx-Media/index.md'
         - 'Application overview':
-            - 'Viewing Media':                    'GraFx-Media/overview/viewing/index.md'
+            - 'Viewing Media':                  'GraFx-Media/overview/viewing/index.md'
         - 'How to':
-            - 'Browse media':                     'GraFx-Media/guides/browse/index.md'
-            - 'Search media':                     'GraFx-Media/guides/search/index.md'
+            - 'Browse media':                   'GraFx-Media/guides/browse/index.md'
+            - 'Search media':                   'GraFx-Media/guides/browse/search/index.md'
 #           'Upload media':                     'GraFx-Media/guides/upload/index.md'
 #           'Download media':                   'GraFx-Media/guides/download/index.md'
-#           'Sort and Filter media':            'GraFx-Media/guides/filter/index.md'
-#           'Sort media':                       'GraFx-Media/guides/sort/index.md'
-
+#           'Sort and Filter media':            'GraFx-Media/guides/browse/sort/index.md'
     - 'GraFx Fonts':
         - 'Introduction':                       'GraFx-Fonts/index.md'
-#        - 'Environment API':                    '/CHILI-GraFx/api/environment/index.md'
 
     - 'GraFx Stylekits':
         - 'Introduction':                       'GraFx-Stylekits/index.md'
-#        - 'Environment API':                    '/CHILI-GraFx/api/environment/index.md'
 
 #    - 'Solutions':
 #        - 'Multiple adds in Real Estate':       'solutions/realestate.md'
@@ -225,7 +220,6 @@ nav:
     - 'Release notes':
         - 'Recent':                             'release-notes/index.md'
         - '2022':                               'release-notes/2022.md'
-
 
     - 'Developer center':
         - 'Overview':                           'GraFx-Developers/index.md'

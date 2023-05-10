@@ -1,34 +1,29 @@
 # How to work with variables
 
-Be sure to also check the [variables concept page](/GraFx-Studio/concepts/variables/)
+Be sure to also check the [variables concept page](/GraFx-Studio/concept/variables/)
 
 ## Insert variable in a text frame
 
+Two ways of doing this
+
+### Insert
+
 Choose "Insert" from the variable "..." menu to insert it into a text frame
 
-![Variables](https://chilipublishdocs.imgix.net/GraFx_studio/variables2.png)
+### Dropdown select
 
-In edit mode, the variable name is shown in a gray box in the text.
+in edit mode in a text frame you can insert a variable by selecting the variable from a dropdown menu in the variables panel.
 
-![Variables](https://chilipublishdocs.imgix.net/GraFx_studio/varshort2.png)
+This will insert the variable at the position of the caret and the caret will be placed after the variable object, so you can continue typing. The menu shows the variables that can be inserted in a text frame (text, number, date, …). The menu shows [None] when no variable is selected.
 
-![Variables](https://chilipublishdocs.imgix.net/GraFx_studio/varshort1.png)
+### Double (forward) slash
 
-If the frame is not wide enough to show the full variable name, the variable name will be truncated to avoid overflow.
+When in edit mode in a text frame you can insert a variable by typing `//` (the '/' character twice). This will open a list of all variables that can be inserted in a text frame (text, number, date, …). You can select the variable from the list or start typing to use auto-complete.
 
-![Variables](https://chilipublishdocs.imgix.net/GraFx_studio/varshort3.png)
+## Insert variables in an image frame
 
+To assign a variable to an image frame, select the frame and select the variable that should be assigned to it from a dropdown menu in the variables panel.
 
-## Assign variable to image frame
+The menu shows the variables that can be assigned to an image frame (only image variables).
 
-Select the image frame you want to assign the variable to.
-
-In the Variable tab, choose the image variable from the "Insert variable" drop-down menu.
-
-![Variables](https://chilipublishdocs.imgix.net/GraFx_studio/how_to/var1.png)
-
-## Un-assign a variable from an image frame
-
-To remove the variable from the image frame, select the frame and choose "None" from the "Insert variable" drop-down menu.
-
-![Variables](https://chilipublishdocs.imgix.net/GraFx_studio/how_to/var2.png)
+The menu also shows [None] as an item to remove the variable again from the frame.

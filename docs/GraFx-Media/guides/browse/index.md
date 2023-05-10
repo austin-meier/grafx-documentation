@@ -2,34 +2,34 @@
 
 ## Browse
 
-![appscreen](https://chilipublishdocs.imgix.net/GraFx_media/media_00.png)
+![appscreen](browse-1.png)
 
 Initally, the top level directory structure is shown. The default view is by grid.
 
 The slider next to the search bar allows switching between grid and list view.
 
-![appscreen](https://chilipublishdocs.imgix.net/GraFx_media/media_10.png?w=100)
+![appscreen](change-view.png)
 
-![appscreen](https://chilipublishdocs.imgix.net/GraFx_media/media_04.png)
+![appscreen](list-view.png)
 
 A single click on a folder will bring you one level down, and show the folder contents.
 
-![appscreen](https://chilipublishdocs.imgix.net/GraFx_media/media_03.png)
+![appscreen](browse-2.png)
 
 ## Sort
 
 In front of the search bar, you can select the field and order how the assets will be sorted.
 
-![appscreen](https://chilipublishdocs.imgix.net/GraFx_media/media_11.png?w=250)
+![appscreen](sort.png)
 
 
 ## Details
 
 Click on the asset or "view details" under the three dots menu "...", to show the details and meta-data.
 
-![appscreen](https://chilipublishdocs.imgix.net/GraFx_media/media_06.png?w=160)
+![appscreen](view-details.png)
 
-![appscreen](https://chilipublishdocs.imgix.net/GraFx_media/media_05.png)
+![appscreen](asset-details.png)
 
 Available details:
 

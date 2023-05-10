@@ -4,13 +4,13 @@
 
 Click on the **plus** sign or three dots "Add sub-layout"
 
-![Creat first Sub-Layout](https://chilipublishdocs.imgix.net/GraFx_studio/how_to/sublayout2.gif)
+![Creat first Sub-Layout](sublayout-1.gif)
 
 Rename the layout to "Skyscraper". Since your renamed, it's selected.
 
 Select the properties panel, and change the dimentions to 160 x 600.
 
-![Skyscraper](https://chilipublishdocs.imgix.net/GraFx_studio/how_to/sublayout1.png)
+![Skyscraper](sublayout-2.png)
 
 The new dimensions appear colored. This is because they differ from the base values.
 
@@ -20,15 +20,15 @@ Select an element in the page, and change the value of a property in the propert
 
 You can also move the elements around on the page.
 
-![Move elements around](https://chilipublishdocs.imgix.net/GraFx_studio/how_to/altlayout5.png)
+![Move elements around](alt-layout-1.png)
 
 The updated value will be colored, as it's changed compared to the inherited value.
 
-![Colored Values](https://chilipublishdocs.imgix.net/GraFx_studio/how_to/altlayout6.png)
+![Colored Values](alt-layout-2.png)
 
 You can reset the value to the inherited one, by clicking on the left turning arrow, and select the value you want to reset. Only changed values you can reset will appear in this dropdown. Or you can choose to resel all values **Reset Overrides**
 
-![Creat first sublayout](https://chilipublishdocs.imgix.net/GraFx_studio/how_to/altlayout7.png)
+![Creat first sublayout](alt-layout-3.png)
 
 ## Change the animation
 
@@ -36,21 +36,21 @@ If the base layout contains an animation, the animation is also available in the
 
 Enable / Activate the [Layers panel](/GraFx-Studio/overview/frames-timeline/) via the [Bottom quick tools icon](/GraFx-Studio/overview/bottom-quicktools/).
 
-Select an element for which you want to change the animation. 
+Select an element for which you want to change the animation.
 
 In the example below, we selected the Text frame "Discover"
 
-![Creat first sublayout](https://chilipublishdocs.imgix.net/GraFx_studio/how_to/altlayout8.png)
+![Creat first sublayout](alt-layout-4.png)
 
 In the Animation Properties panel, change the values you want to change for this Layout.
 
 If you don't change values, they will be inherited from the base layout.
 
-![Change Animation values](https://chilipublishdocs.imgix.net/GraFx_studio/how_to/altlayout9.png)
+![Change Animation values](alt-layout-5.png)
 
 If you want to disable the specific animation, de-select the specific animation with the respective buttons.
 
-![Animation buttons](https://chilipublishdocs.imgix.net/GraFx_studio/how_to/altlayout10.png)
+![Animation buttons](alt-layout-6.png)
 
 The active options are shown with a lighter background.
 

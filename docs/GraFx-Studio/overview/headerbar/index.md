@@ -1,6 +1,6 @@
 # Header bar
 
-![appscreen](https://chilipublishdocs.imgix.net/GraFx_studio/ui_headerbar.png)
+![appscreen](headerbar.png)
 
 Depending on your need, you can choose a different overall toolset to
 

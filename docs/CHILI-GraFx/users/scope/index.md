@@ -23,4 +23,4 @@ An environment is the smallest level, where documents are grouped to serve an ap
 
 ### Roles
 
-[Roles](/CHILI_GraFx/user_management_roles/) (and permissions) on the environment level affect only the specific environment.
+[Roles](/CHILI-GraFx/users/roles/) (and permissions) on the environment level affect only the specific environment.

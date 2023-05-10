@@ -75,9 +75,9 @@ The default value your variable with have.
 ## Basic properties:
 
 - Name: Cannot be empty, must be unique
-- Type: See [types](/#variable-types) above
-- [Visible](/#visibility-conditions): Enabled by default
-- [Required](/#required-variables): Disabled by default
+- Type: See [types](#variable-types) above
+- [Visible](#visibility-conditions): Enabled by default
+- [Required](#required-variables): Disabled by default
 - Read-only: Disabled by default
 
 ### Required variables

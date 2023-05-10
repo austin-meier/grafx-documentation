@@ -2,11 +2,11 @@
 
 When opening the GraFx Studio editor, you will see the full workspace
 
-![appscreen](https://chilipublishdocs.imgix.net/GraFx_studio/editor03.png?w=800)
+![appscreen](editor.png)
 
 ## Elements on screen
 
-![appscreen](https://chilipublishdocs.imgix.net/GraFx_studio/editor03_parts.png?w=800)
+![appscreen](editor-labeled.png)
 
 ### 1 Sidebar
 
@@ -39,7 +39,7 @@ Contextual bottom panel will hold information for relevant tools.
 
 E.g. layers or animation timeline will be displayed here
 
-![appscreen](https://chilipublishdocs.imgix.net/GraFx_studio/editor04_parts.png)
+![appscreen](panel-labeled.png)
 
 ### 7 Quick Tools Details
 

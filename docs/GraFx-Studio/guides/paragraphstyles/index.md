@@ -4,24 +4,24 @@
 
 Open the Stylekit panel.
 
-![Button](https://chilipublishdocs.imgix.net/GraFx_studio/how_to/ps_1.png)
+![Button](ps-1.png)
 
 Select the first tab to view paragraph- and character styles
 
-![Image](https://chilipublishdocs.imgix.net/GraFx_studio/how_to/ps_2.png)
+![Image](ps-2.png)
 
 Click on the "+" sign to ad a new paragraph style.
 Each click on the "+" sign will add another (empty) paragraph style.
 
-![Image](https://chilipublishdocs.imgix.net/GraFx_studio/how_to/ps_3.png)
+![Image](ps-3.png)
 
 Click on the "..." menu next to the newly created paragraph style and choose edit or click the pencil to edit the style.
 
-![Image](https://chilipublishdocs.imgix.net/GraFx_studio/how_to/ps_4.png)
+![Image](ps-4.png)
 
 Set all properties you want for this paragraph. Saving happens automatically.
 
-![Image](https://chilipublishdocs.imgix.net/GraFx_studio/how_to/ps_5_2.png?w=300)
+![Image](ps-5.png)
 
 ## Apply a paragraph style
 
@@ -30,4 +30,4 @@ A paragraph is defined between the start of a sentence, up to the end-of-line ch
 
 In the properties panel on the right, select the paragraph style from the dropdown list.
 
-![Image](https://chilipublishdocs.imgix.net/GraFx_studio/how_to/ps_6.png)
+![Image](ps-6.png)

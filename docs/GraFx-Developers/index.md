@@ -7,7 +7,7 @@ To communitcate with GraFx server side, please use these two APIs. You can learn
 
 Client side
 
-- [GraFx Studio SDK](https://chili-publish.github.io/editor-sdk/index.html)
+- [GraFx Studio SDK](https://chili-publish.github.io/studio-sdk/index.html)
 
 ## Platform API
 
@@ -59,24 +59,24 @@ Error codes
 ## CHILI GraFx
 
 - [Getting Started](/CHILI-GraFx/integration/getting_started/)
-- [Platform API](/CHILI-GraFx/platform_api/)
+- [Platform API Swagger](https://api.chiligrafx.com/swagger/index.html)
 
 ## GraFx Studio
 
-- [SDK Getting Started](/GraFx-Studio/integration/getting_started/)
-- [SDK Reference](https://chili-publish.github.io/editor-sdk/index.html)
-- [Environment API](https://sandbox1.chili-publish-sandbox.online/grafx/swagger/index.html)
+- [SDK Getting Started](/GraFx-Studio/integration/getting-started/)
+- [SDK Reference](https://chili-publish.github.io/studio-sdk/index.html)
+- [Environment API Swagger](https://sandbox1.chili-publish-sandbox.online/grafx/swagger/index.html)
 
-## GraFx publisher
+## GraFx Publisher
 
 - [REST API Reference](https://mydocumentation.chili-publish.com/search?text=rest%20api%20endpoints){target="_blank"}
 - [Javascript API](https://mydocumentation.chili-publish.com/search?text=Getting%20started%20with%20your%20JavaScript%20integration){target="_blank"}
 - [Getting Started](https://mydocumentation.chili-publish.com/search?text=chili%20api%20guide){target="_blank"}
 
-## GraFx media
+## GraFx Media
 
-- [Environment API](https://sandbox1.chili-publish-sandbox.online/grafx/swagger/index.html)
+- [Environment API Swagger](https://sandbox1.chili-publish-sandbox.online/grafx/swagger/index.html)
 
-## GraFx fonts
+## GraFx Fonts
 
-- [Environment API](https://sandbox1.chili-publish-sandbox.online/grafx/swagger/index.html)
+- [Environment API Swagger](https://sandbox1.chili-publish-sandbox.online/grafx/swagger/index.html)

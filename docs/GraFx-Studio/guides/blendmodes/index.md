@@ -6,4 +6,4 @@
 
 [Overview of blend modes](/GraFx-Studio/concepts/blendmodes/)
 
-![Frame](https://chilipublishdocs.imgix.net/GraFx_studio/blendmodes/applyblendmode.png)
+![Frame](applyblendmode.png)

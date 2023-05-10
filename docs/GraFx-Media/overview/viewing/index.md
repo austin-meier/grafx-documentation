@@ -2,7 +2,7 @@
 
 When opening GraFx Media, you see the top level directory of your assets.
 
-![appscreen](https://chilipublishdocs.imgix.net/GraFx_media/media_00.png)
+![appscreen](dashboard.png)
 
 Just like with your "Finder" or "Explorer", your assets are organised in folders and subfolders.
 

@@ -8,18 +8,18 @@ Blend Modes determine how two graphics or colors blend together. Each blend mode
 
 | Examples      | | | |
 | -- | -- | -- | -- |
-| Normal| Screen | Overlay | Darken |
-|![Frame](https://chilipublishdocs.imgix.net/GraFx_studio/blendmodes/normal.png?w=150)| ![Frame](https://chilipublishdocs.imgix.net/GraFx_studio/blendmodes/screen.png?w=150)|![Frame](https://chilipublishdocs.imgix.net/GraFx_studio/blendmodes/overlay.png?w=150)|![Frame](https://chilipublishdocs.imgix.net/GraFx_studio/blendmodes/darken.png?w=150)|
-| Lighten | Color Dodge | Color Burn | Hard light |
-|![Frame](https://chilipublishdocs.imgix.net/GraFx_studio/blendmodes/lighten.png?w=150)| ![Frame](https://chilipublishdocs.imgix.net/GraFx_studio/blendmodes/colordodge.png?w=150)|![Frame](https://chilipublishdocs.imgix.net/GraFx_studio/blendmodes/colorburn.png?w=150)|![Frame](https://chilipublishdocs.imgix.net/GraFx_studio/blendmodes/hardlight.png?w=150)|
-| Soft light | Difference | Exclusion | Multiply |
-|![Frame](https://chilipublishdocs.imgix.net/GraFx_studio/blendmodes/softlight.png?w=150)| ![Frame](https://chilipublishdocs.imgix.net/GraFx_studio/blendmodes/difference.png?w=150)|![Frame](https://chilipublishdocs.imgix.net/GraFx_studio/blendmodes/exclusion.png?w=150)|![Frame](https://chilipublishdocs.imgix.net/GraFx_studio/blendmodes/multiply.png?w=150)|
-| Hue | Saturation | Color | Luminosity |
-|![Frame](https://chilipublishdocs.imgix.net/GraFx_studio/blendmodes/hue.png?w=150)| ![Frame](https://chilipublishdocs.imgix.net/GraFx_studio/blendmodes/saturation.png?w=150)|![Frame](https://chilipublishdocs.imgix.net/GraFx_studio/blendmodes/color.png?w=150)|![Frame](https://chilipublishdocs.imgix.net/GraFx_studio/blendmodes/luminosity.png?w=150)|
+| Normal              | Screen             | Overlay             | Darken |
+|![Frame](normal.png)| ![Frame](screen.png)|![Frame](overlay.png)|![Frame](darken.png)|
+| Lighten             | Color Dodge             | Color Burn            | Hard light |
+|![Frame](lighten.png)| ![Frame](colordodge.png)|![Frame](colorburn.png)|![Frame](hardlight.png)|
+| Soft light            | Difference              | Exclusion             | Multiply |
+|![Frame](softlight.png)| ![Frame](difference.png)|![Frame](exclusion.png)|![Frame](multiply.png)|
+| Hue             | Saturation              | Color             | Luminosity |
+|![Frame](hue.png)| ![Frame](saturation.png)|![Frame](color.png)|![Frame](luminosity.png)|
 
 The above examples show blend modes in action on a graphic. You can also apply them to a frame with text.
 
-![Frame](https://chilipublishdocs.imgix.net/GraFx_studio/blendmodes/blendmodetext.png)
+![Frame](blendmode-text.png)
 
 ### Normal
 The default blend mode which draws the new graphics over the existing graphics.

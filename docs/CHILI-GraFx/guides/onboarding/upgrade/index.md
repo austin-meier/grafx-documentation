@@ -7,7 +7,7 @@ My CHILI publisher (MyCP in short) has evolved into the CHILI GraFx. The platfor
 Part of CHILI GraFx is the User management, Subscription management, etc. The functionality of MyCP moved on to CHILI GraFx.
 
 If you haven't migrated yet, this is the right time!
-[Migrate now](/CHILI-GraFx/guides/onboarding/migration/index.md)
+[Migrate now](/CHILI-GraFx/guides/onboarding/migration/)
 
 For the legacy MyCP documentation visit [MyCP Dodumentation](https://chilipublishdocs.atlassian.net/wiki/spaces/CPDOC/pages/1373405185/My+CHILI+publisher+a.k.a.+MyCP){target=_blank}.
 
@@ -38,12 +38,12 @@ You will be able to connect third party Identity Providers to CHILI GraFx
 
 Logging on to [CHILI GraFx](https://chiligrafx.com){target="_blank"} will bring you to this screen
 
-![Migrate](https://chilipublishdocs.imgix.net/CHILI_GraFx/migrate5.png?w=690)
+![Migrate](upgrade-1.png)
 
 
 ### Step 2: Provide your email
 
-![Migrate](https://chilipublishdocs.imgix.net/CHILI_GraFx/migrate2.png?w=690)
+![Migrate](upgrade-2.png)
 
 Provide your email, you used to login to My CHILI publish before.
 
@@ -51,11 +51,11 @@ If you use enter email that is in use, you will get notified.
 
 If your email is known in the platform, CHILI GraFx will let you know.
 
-![Migrate](https://chilipublishdocs.imgix.net/CHILI_GraFx/migrate4.png?w=250)
+![Migrate](upgrade-3.png)
 
 
 ### Step 2: Confirm your email
 
-![Migrate](https://chilipublishdocs.imgix.net/CHILI_GraFx/migrate3.png?w=690)
+![Migrate](upgrade-4.png)
 
 A confirmation email awaits you, and will bring you to the activated CHILI GraFx dashboard.

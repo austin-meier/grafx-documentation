@@ -1,6 +1,6 @@
 # Sidebar (top section)
 
-![appscreen](https://chilipublishdocs.imgix.net/GraFx_studio/ui_top_quicktools2.png)
+![appscreen](sidebar.png)
 
 Tools to interact with the page or document.
 
@@ -17,7 +17,7 @@ From top to bottom
 
 When your cursor is not IN a text frame, you can use the shortcuts mentioned next to the  tool to switch tools.
 
-![appscreen](https://chilipublishdocs.imgix.net/GraFx_studio/ui_sidebar_tooltips.png)
+![appscreen](sidebar-tooltips.png)
 
 ## Select
 

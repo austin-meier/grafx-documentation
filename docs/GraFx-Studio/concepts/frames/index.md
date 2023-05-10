@@ -4,13 +4,13 @@ A frame is an construct to place elements on a page.
 
 A frame is a rectangular shape that can hold contents, and can have properties of itself.
 
-![Frame](https://chilipublishdocs.imgix.net/GraFx_studio/frame01.png?w=830&q=80)
+![Frame](frame-1.png)
 
 ## Basic Properties
 
 Position is defined by the **top left** corner of the rectangle, relative to the **top left** corder of the document.
 
-![Frame](https://chilipublishdocs.imgix.net/GraFx_studio/frame02.png?w=800&q=100)
+![Frame](frame-2.png)
 
 The width and height defines the size of the frame.
 
@@ -22,7 +22,7 @@ The frame-border will have properties in the future
 
 ## Frame types
 
-![Frame](https://chilipublishdocs.imgix.net/GraFx_studio/frametypes.png)
+![Frame](frame-types.png)
 
 Depending on the type of content, you'll need a different type of frame.
 
@@ -38,7 +38,7 @@ An image frame is made to hold static images.
 
 An image frame looks like a rectangular box when selected, and has a cross, when no media is available for the frame.
 
-![Frame](https://chilipublishdocs.imgix.net/GraFx_studio/frametypes02.png)
+![Frame](frame-types-2.png)
 
 When media is selected / active for the frame, it will show the media.
 

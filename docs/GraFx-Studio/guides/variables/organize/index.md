@@ -8,7 +8,7 @@ tags:
 
 In the properties panel, click the tool wrench.
 
-![Variables](https://chilipublishdocs.imgix.net/GraFx_studio/variables1.png)
+![Variables](variables-1.png)
 
 A Variable panel will appear, where you can define/organize your variables.
 

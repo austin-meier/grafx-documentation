@@ -7,8 +7,8 @@ Set of tools at the bottom of the sidebar.
 - Media browser
 - Stylekit Panel
 
-![appscreen](https://chilipublishdocs.imgix.net/GraFx_studio/ui_bottom_quicktools.png)
+![appscreen](bottom-quicktools-ui.png)
 
 E.g. When selecting the **Layers and Animation** tool, an extra properties panel will open.
 
-![appscreen](https://chilipublishdocs.imgix.net/GraFx_studio/ui_layers_animation.png)
+![appscreen](animation-timeline.png)

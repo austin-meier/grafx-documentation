@@ -1,4 +1,4 @@
-# Onboarding: GraFx Studio - Hello world extended
+# GraFx Studio - Hello world extended
 
 [CHILI GraFx](https://chiligrafx.com){target="_blank"}
 
