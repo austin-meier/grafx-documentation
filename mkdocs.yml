@@ -180,7 +180,6 @@ nav:
             - 'Add variables to document':      'GraFx-Studio/guides/variables/assign/index.md'
 #        - 'How to: Extend GraFx studio':
 #            - 'GraFx studio INDD plugin' :      'GraFx-Studio/plugin/studio_indesign.md'
-#            - 'GraFx studio AI plugin' :        'GraFx-Studio/plugin/studio_ai.md'
         - 'How to: Output':
 #            - 'Settings':                       'GraFx-Studio/guides/output/settings/index.md'
             - 'MP4':                            'GraFx-Studio/guides/output/mp4/index.md'
